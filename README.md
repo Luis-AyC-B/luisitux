@@ -14,5 +14,5 @@ Estudio Ingenieria de Sistemas
 
 
 
-[!NOTE]
+> [!NOTE]
 > "El miedo es el camino hacia el lado oscuro. El miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento."
